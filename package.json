@@ -2,6 +2,7 @@
 	"author": "Rail",
 	"name": "fcc-learn-npm-package-json",
 	"description": "freecodecamp node.js package.json project",
+	"keywords": ["freecodecamp", "config", "build"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
